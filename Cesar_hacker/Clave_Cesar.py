@@ -39,7 +39,7 @@ def decodificar(car1, car2):
 
 
 def clave_cesar():
-    mensaje = input("Introduce el mensaje encriptado: ")
+    mensaje = input("Introduce el  mensaje encriptado: ")
     longitud = len(mensaje)
     lista = []
     
